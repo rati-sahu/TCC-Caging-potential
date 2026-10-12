@@ -1,0 +1,7 @@
+Use the hist files to create the histogram of the caging potential.
+
+Use the gr files to plot the radial distribution fucntions.
+
+Use the Nc file for the fraction of particles in various motif types.
+
+The XYZ file can be used to render the 3D image of the 10B motifs.
