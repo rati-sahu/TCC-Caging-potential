@@ -1,0 +1,5 @@
+Use the nr files to plot the Mass radius scaling.
+
+Use the Nc files to plot the fraction of motifs as a function of strain.
+
+Use the msmean files to plot the mean cluster size and dmean for mean non-affine displacement as a function of gamma.
