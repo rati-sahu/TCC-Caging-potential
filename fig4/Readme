@@ -1,3 +1,5 @@
+A section of the .XYZ file is used to render the corrdinates of the 10B particles for 3 different strain values. 
+
 Use the nr files to plot the Mass radius scaling.
 
 Use the Nc files to plot the fraction of motifs as a function of strain.
