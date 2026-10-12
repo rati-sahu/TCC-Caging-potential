@@ -1,0 +1,5 @@
+Use the files hist* to get the distributions of the caging potential.
+
+Use the Nc file to get the fraction of particles in the system in that motif.
+
+Use the .xyz file to render the coordinates of the FCC and the other defective crystalline structure.
