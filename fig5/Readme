@@ -1,0 +1,5 @@
+Use the hist_10b rich/ poor file to plot the non-affine motions in Fig5a.
+
+Use hist_cg files to plot the distribution of caging potentials.
+
+Use the mf* files to plot the loss of motif fraction as a function of the caging potential.
